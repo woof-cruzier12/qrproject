@@ -20,14 +20,11 @@
 
 title: rjgozon.live
 email: 64195987+woof-cruzier12@users.noreply.github.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: test live for blog
 domain: rjgozon.live
 baseurl: https://rjgozon.live # the subpath of your site, e.g. /blog
 url: /woof-cruzier12.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: -
 github_username:  woof-cruzier12
 
 # Build settings
