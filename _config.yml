@@ -24,7 +24,7 @@ description: test live for blog
 domain: rjgozon.live
 baseurl: https://rjgozon.live # the subpath of your site, e.g. /blog
 url: /woof-cruzier12.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: -
+twitter_username: woof-cruzier12
 github_username:  woof-cruzier12
 
 # Build settings
