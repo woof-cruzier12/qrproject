@@ -1,9 +1,1243 @@
-﻿#EXTM3U
-#EXTINF:-1  tvg-logo="" group-title="test",TV5 hd
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
-#EXTINF:-1  tvg-logo="" group-title="test",A2Z sd
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/a2zsd.m3u8
-#EXTINF:-1  tvg-logo="" group-title="test",CNN hd
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cnnhd_dr_6.m3u8
-#EXTINF:-1  tvg-logo="" group-title="test",TMC
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/tagalogmovie_qp.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fdekwc6nnnppdfa/JMV%2Bvisuals%2B2%2Bblack-01.jpg?dl=1/" group-title="JMV:PH", FREE FOR ALL
+https://www.dropbox.com/s/w48wqv57sxdimbb/720_24_13.23_Feb062019_02.mp4?dl=1
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", Arabic TFC
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16733
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH A2Z
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16744
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH ABC Austrailia
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16736
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH AL JAZEERA
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16745
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH ANC
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16737
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH ANIMAL PLANET
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16746
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH ANIMAX
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16734
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH ARIRANG TV WORLD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16747
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH ASIAN FOOD CHANNEL
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16735
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH AXN
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16732
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH BBC Earth HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16804
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH BBC World News
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16803
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH BOOMERANG
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16749
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH BUKO Channel
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16750
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Bloomberg
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16785
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH CCTV 4
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16754
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH CGTN
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16729
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH CHANNEL NEWS ASIA (CNA)
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16724
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH CNN
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16786
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Cartoon Network
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16731
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Cinema One
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16728
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Cinemax
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16704
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Cinemo
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16727
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Cinemo EMEA
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16726
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Cinemo Nola
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16725
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Crime Investigation SD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16755
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH DZRH News
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16721
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH DepEd
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16756
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Discovery Asia
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16773
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Discovery Channel
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16723
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Dreamworks (Tagalized)
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16792
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Dreamworks HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16757
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH EWTN
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16739
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH EWTN_DR
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16758
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH FASHION TV HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16759
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Food Network
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16796
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Food Network HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16687
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH France 24
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16787
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH GMA LIFE
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16720
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH GMA News TV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16683
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH GMA Pinoy TV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16719
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH HBO
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16788
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH HBO Family
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16791
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH HBO Hits
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16790
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH HBO Signature
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16789
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH HGTV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16795
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH HISTORY HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16760
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH HITS HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16761
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH HITS Movies
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16717
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH HITS Now
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16793
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Hillsong Channel
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16718
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH IBC13
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16716
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH KBS World
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16713
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH KIX HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16763
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Kapamilya
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16715
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Kapamilya Channel
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16714
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Knowledge Channel
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16712
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Knowledge Channel
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16711
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH LIGHT
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16710
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH LIGHT TV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16709
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Lifetime
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16794
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Lotus Macau
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16748
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH MPTV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16762
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH MTV Asia
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16708
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH MYX
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16707
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Moonbug Kids SD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16764
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH NAT GEO
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16765
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH NHK Japan
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16766
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH NHK WORLD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16740
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Nick Jr
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16767
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Nickelodeon
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16706
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH ONE SPORTS
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16722
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH One
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16705
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH One News  SD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16741
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH One News HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16742
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH One Sports Plus
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16768
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH One news HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16769
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Outdoor Channel
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16702
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH PBA RUSH
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16743
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH PTV 4
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16700
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Paramount Channel
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16770
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Pinoy Box Office (PBO)
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16701
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Premier Sports 2 C)
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16772
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Premier Sports HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16771
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH RUSH PBA (FHD)
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16782
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Rock Entertainment
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16774
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Rock Extreme
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16753
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH SARI SARI
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16698
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH SPOTV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16799
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH SPOTV 2
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16800
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH TAP Movies HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16775
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH TAP TV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16776
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH TFC
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16696
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH TFC Asia
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16695
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH TFC Australia
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16694
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH TFC Canada
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16802
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH TFC Europe
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16693
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH TFC Middle East
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16692
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH TFC USA
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16691
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH TLC
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16689
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH TV Maria
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16797
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH TV5
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16777
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH TV5
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16686
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH TVUP
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16798
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Tagalog Movie Channel
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16751
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Tap Action Flix HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16778
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Tap Edge Channel
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16779
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Tap Sports
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16780
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH TechStorm
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16801
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH TeleNovela
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16697
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Teleradio
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16738
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Travel Channel
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16688
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH True FM
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16784
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH Tv5 Monde ASIE DR
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16685
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH UAAP Varsity CH
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16781
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH UNTV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16699
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH VIVA CINEMA
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16684
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH WARNER HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16783
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH thill
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16690
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH tvN Movies Pinoy
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16730
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", PH tvN Premium
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16752
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JMV:PH", Ph RPTV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16703
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="USA KIDS", USA: Baby First HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/648
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/BabyTV.uk.png" group-title="USA KIDS", USA: BABY TV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/649
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/Boomerang.us.png" group-title="USA KIDS", USA: Boomerang HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/650
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s59562_ll_h3_aa.png" group-title="USA KIDS", USA: Cartoon Network East HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/651
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/CartoonNetwork.us.png" group-title="USA KIDS", USA: Cartoon Network West FHD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/652
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/DisneyChannel.us.png" group-title="USA KIDS", USA: Disney Channel East HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/653
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s10171_ll_h3_ae.png" group-title="USA KIDS", USA: Disney Channel West HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/654
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s74885_h3_aa.png" group-title="USA KIDS", USA: Disney Jr East HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/655
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s74885_h3_aa.png" group-title="USA KIDS", USA: Disney Jr West HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/656
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s60006_ll_h3_aa.png" group-title="USA KIDS", USA: Disney XD East HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/657
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s18279_ll_h3_aa.png" group-title="USA KIDS", USA: Disney XD West HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/658
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/NickJr.us.png" group-title="USA KIDS", USA: Nick Jr West FHD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/659
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/NickJr.us.png" group-title="USA KIDS", USA: Nick Jr. East FHD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/660
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/NickMusic.us.png" group-title="USA KIDS", USA: Nick Music
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/661
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/Nickelodeon.us.png" group-title="USA KIDS", USA: Nickelodeon East
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/662
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/Nickelodeon.us.png" group-title="USA KIDS", USA: Nickelodeon West FHD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/663
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/Nicktoons.us.png" group-title="USA KIDS", USA: Nicktoons HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/664
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/TeenNickPacific.us.png" group-title="USA KIDS", USA: TeenNick HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/665
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/UniversalKidsPacific.us.png" group-title="USA KIDS", USA: Universal Kids East HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/666
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/UniversalKidsPacific.us.png" group-title="USA KIDS", USA: Universal Kids West FHD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/667
+
+
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/HBO.us.png" group-title="JMV:USA PREMIUM MOVIES", USA:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/504
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/Cinemax5StarMAX.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: 5 STARMAX
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/530
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/ActionMax_2011.svg/revision/latest/scale-to-width-down/300?cb=20160721192021" group-title="JMV:USA PREMIUM MOVIES", USA: ACTIONMAX
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/494
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/ActionMaxPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: ACTIONMAX WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/541
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2138438.png" group-title="JMV:USA PREMIUM MOVIES", USA: CINEMAX EAST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/495
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/CineMAXPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: CINEMAX WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/496
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/HBO2.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: HBO 2
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/528
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBOComedy.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: HBO COMEDY
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/503
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/HBOFamily.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: HBO FAMILY
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/505
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/HBOSignature.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: HBO SIGNATURE
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/506
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/HBOPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: HBO WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/507
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/HBOZone.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: HBO ZONE
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/508
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s33668_ll_h3_ae.png" group-title="JMV:USA PREMIUM MOVIES", USA: HDNET MOVIES
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/568
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/MGM%2B_Drive-In_2023.svg/revision/latest/scale-to-width-down/250?cb=20230117170456" group-title="JMV:USA PREMIUM MOVIES", USA: MGM+ Drive-In HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/572
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/1200px-MGM%2B_logo.svg.png" group-title="JMV:USA PREMIUM MOVIES", USA: MGM+ HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/500
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/MGM%2B_Hits_2023.svg/revision/latest/scale-to-width-down/300?cb=20230117170227" group-title="JMV:USA PREMIUM MOVIES", USA: MGM+ HITS HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/501
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MGM%2B_Marquee_2023.svg/revision/latest/scale-to-width-down/300?cb=20230117170334" group-title="JMV:USA PREMIUM MOVIES", USA: MGM+ Marquee HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/502
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/MoreMax.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: MOREMAX
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/497
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1987648.png" group-title="JMV:USA PREMIUM MOVIES", USA: MOREMAX WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/542
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/OuterMax.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: OUTERMAX
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/498
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/RetroPlex.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: RETROPLEX
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/527
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/Showtime2.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: SHOWTIME 2
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/532
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/Showtime2Pacific.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: SHOWTIME 2 WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/534
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/SHOxBET.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: SHOWTIME BET
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/529
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/SHOxBetPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: SHOWTIME BET WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/540
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/Showtime.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: SHOWTIME EAST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/509
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/ShowtimeExtreme.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: SHOWTIME EXTREME
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/512
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/ShowtimeExtremePacific.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: SHOWTIME EXTREME WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/536
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/ShowtimeFamilyzonePacific.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: SHOWTIME FAMILY ZONE
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/513
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/ShowtimeFamilyzonePacific.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: SHOWTIME FAMILY ZONE WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/537
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/ShowtimeNextPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: SHOWTIME NEXT
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/514
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/ShowtimeNextPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: SHOWTIME NEXT WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/538
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/ShowtimeShowcase.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: SHOWTIME SHOWCASE
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/511
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s16153_ll_h3_ac.png" group-title="JMV:USA PREMIUM MOVIES", USA: SHOWTIME SHOWCASE WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/535
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/ShowtimePacific.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: SHOWTIME WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/510
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/ShowtimeWomenPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: SHOWTIME WOMEN EAST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/515
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/ShowtimeWomenPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: SHOWTIME WOMEN WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/539
+
+#EXTINF:-1 tvg-logo="http://undergroundservice.xyz:8080/images/EyP0neaKlaVfFrUx3ehzSeRNIL7FNIkfNZvlW5MlzTo_mGgj-y5fIpOtZeblSqUL3Raq5bjbZPmwpZXSjEn5AA.png" group-title="JMV:USA PREMIUM MOVIES", USA: SONY MOVIES
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/533
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s19634_ll_h3_ab.png" group-title="JMV:USA PREMIUM MOVIES", USA: STARZ CINEMA
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/516
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzComedy.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: STARZ COMEDY
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/519
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/Starz.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: STARZ EAST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/517
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzEdge.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: STARZ EDGE
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/520
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzKids.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: STARZ KIDS & FAMILY
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/531
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s49338_ll_h3_ab.png" group-title="JMV:USA PREMIUM MOVIES", USA: STARZ WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/518
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreAction.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: STARZENCORE ACTION
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/522
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreClassic.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: STARZENCORE CLASSIC
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/523
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s10178_ll_h3_ab.png" group-title="JMV:USA PREMIUM MOVIES", USA: STARZENCORE EAST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/573
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreFamily.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: STARZENCORE FAMILY
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/524
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreSuspense.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: STARZENCORE SUSPENSE
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/525
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s10178_ll_h3_ab.png" group-title="JMV:USA PREMIUM MOVIES", USA: STARZENCORE WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/574
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreWesterns.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: STARZENCORE WESTERNS
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/526
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzInBlack.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: STARZIN BLACK EAST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/521
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/TCMPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: TCM WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/563
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s11160_ll_h3_aa.png" group-title="JMV:USA PREMIUM MOVIES", USA: THE MOVIE CHANNEL
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/576
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s11160_ll_h3_aa.png" group-title="JMV:USA PREMIUM MOVIES", USA: THE MOVIE CHANNEL WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/577
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s60951_ll_h3_aa.png" group-title="JMV:USA PREMIUM MOVIES", USA: THE MOVIE CHANNEL XTRA EAST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/578
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s60951_ll_h3_aa.png" group-title="JMV:USA PREMIUM MOVIES", USA: THE MOVIE CHANNEL XTRA WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/579
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1621618.png" group-title="JMV:USA PREMIUM MOVIES", USA: THRILLERMAX
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/499
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/ThrillerMAXPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", USA: THRILLERMAX WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/543
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/HBO2Pacific.us.png" group-title="JMV:USA PREMIUM MOVIES", HBO 2 WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/544
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/HBOComedyPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", HBO COMEDY WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/545
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/HBOFamilyPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", HBO FAMILY WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/546
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/HBOSignaturePacific.us.png" group-title="JMV:USA PREMIUM MOVIES", HBO SIGNATURE WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/547
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1111204.png" group-title="JMV:USA PREMIUM MOVIES", HBO ZONE WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/548
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s49751_ll_h3_ab.png" group-title="JMV:USA PREMIUM MOVIES", INDIEPLEX EAST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/570
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/IndiePlexPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", INDIEPLEX WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/549
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s15295_ll_h3_ac.png" group-title="JMV:USA PREMIUM MOVIES", MOVIEPLEX EAST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/571
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/MoviePlexPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", MOVIEPLEX WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/550
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/RetroPlexPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", RETROPLEX WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/551
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/ScreenPixAction.us.png" group-title="JMV:USA PREMIUM MOVIES", ScreenPix Action US
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/564
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/ScreenPix.us.png" group-title="JMV:USA PREMIUM MOVIES", ScreenPix US
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/565
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/ScreenPixVoices.us.png" group-title="JMV:USA PREMIUM MOVIES", ScreenPix Voices US
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/566
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/ScreenPixWesterns.us.png" group-title="JMV:USA PREMIUM MOVIES", ScreenPix Westerns US
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/567
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzCinemaPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", STARZ CINEMA WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/552
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzComedyPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", STARZ COMEDY WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/553
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzEdgePacific.us.png" group-title="JMV:USA PREMIUM MOVIES", STARZ EDGE WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/554
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzKids.us.png" group-title="JMV:USA PREMIUM MOVIES", STARZ KIDS WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/562
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreActionPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", STARZENCORE ACTION WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/555
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s72014_ll_h3_aa.png" group-title="JMV:USA PREMIUM MOVIES", STARZENCORE BLACK EAST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/575
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreBlackPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", STARZENCORE BLACK WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/556
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreClassicPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", STARZENCORE CLASSIC WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/557
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreFamilyPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", STARZENCORE FAMILY WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/558
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreSuspensePacific.us.png" group-title="JMV:USA PREMIUM MOVIES", STARZENCORE SUSPENSE WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/559
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreWesternsPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", STARZENCORE WESTERN WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/560
+
+#EXTINF:-1 tvg-logo="http://iptvboss.xyz/logos/USA/StarzinBlackPacific.us.png" group-title="JMV:USA PREMIUM MOVIES", STARZIN BLACK WEST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/561
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s25621_ll_h3_ad.png" group-title="JMV:USA PREMIUM MOVIES", US: MOVIEMAX EAST
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/569
+
+
+
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC PASS", UFC 1 | fusion fighting championship 74 | 7.00PM ET | FRI
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/15300
+
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC PASS", UFC 2 |
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/15299
+
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC PASS", UFC 3 |
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/15298
+
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC PASS", UFC 4 |
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/15297
+
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC PASS", UFC 5:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/15296
+
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC PASS", UFC 6: OFFLINE
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/15295
+
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/02/ufc-fight-pass-logo.png" group-title="UFC PASS", UFC 7: OFFLINE
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/15294
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 00
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11488
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 01
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11489
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 02
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11490
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 03
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11491
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 04
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11492
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 05
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11493
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 06
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11494
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 07
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11495
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 08
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11496
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 09
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11497
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 10
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11498
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 100
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11588
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 11
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11499
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 12
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11500
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 13
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11501
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 14
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11502
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 15
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11503
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 16
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11504
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 17
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11505
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 18
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11506
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 19
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11507
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 20
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11508
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 21
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11509
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 22
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11510
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 23
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11511
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 24
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11512
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 25
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11513
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 26
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11514
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 27
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11515
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 28
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11516
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 29
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11517
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 30
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11518
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 31
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11519
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 32
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11520
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 33
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11521
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 34
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11522
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 35
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11523
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 36
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11524
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 37
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11525
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 38
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11526
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 39
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11527
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 40
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11528
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 41
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11529
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 42
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11530
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 43
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11531
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 44
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11532
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 45
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11533
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 46
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11534
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 47
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11535
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 48
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11536
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 49
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11537
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 50
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11538
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 51
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11540
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 52
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11539
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 53
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11541
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 54
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11542
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 55
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11543
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 56
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11544
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 57
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11545
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 58
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11546
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 59
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11547
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 60
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11548
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 61
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11549
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 62
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11550
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 63
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11551
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 64
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11552
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 65
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11553
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 66
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11554
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 67
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11555
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 68
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11556
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 69
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11557
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 70
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11558
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 71
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11559
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 72
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11560
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 73
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11561
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 74
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11562
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 75
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11563
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 76
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11564
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 77
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11565
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 78
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11566
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 79
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11567
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 80
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11568
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 81
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11569
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 82
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11570
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 83
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11571
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 84
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11572
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 85
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11573
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 86
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11574
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 87
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11575
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 88
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11576
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 89
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11577
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 90
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11578
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 91
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11579
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 92
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11580
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 93
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11581
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 94
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11582
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 95
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11583
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 96
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11584
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 97
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11585
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 98
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11586
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="ESPN + 2 (EPG)", ESPN + EVENT 99
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/11587
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA LEAGUE PASS", USA NBA TV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7108
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA LEAGUE PASS", USA NBA TV LHD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7109
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA LEAGUE PASS", USA NBA TV SD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7110
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA LEAGUE PASS", USA NBA TV UHD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7111
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s32281_ll_h3_ad.png" group-title="NBA LEAGUE PASS", USA | NBA TV FHD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7114
+
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/nba_tv_c.png" group-title="NBA LEAGUE PASS", USA | NBA TV HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7161
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA LEAGUE PASS", US HD: NBA TV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7107
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA LEAGUE PASS", .NBA TV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7106
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA LEAGUE PASS", .NBA TV BACKUP
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7113
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG22.png" group-title="NBA LEAGUE PASS", NBA 01  | Indiana    @    New York | 7.30PM ET | MON
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7115
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="NBA LEAGUE PASS", NBA 01: Dallas Mavericks vs Oklahoma City Thunder May 7 9:30PM
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7131
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBALeaguePass1.us.png" group-title="NBA LEAGUE PASS", NBA 01: Dallas Mavericks vs Oklahoma City Thunder May 7 9:30PM
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7147
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG22.png" group-title="NBA LEAGUE PASS", NBA 02 | Minnesota    @    Denver   | 10.00PM ET | MON
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7116
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="NBA LEAGUE PASS", NBA 02: Cleveland Cavaliers vs Boston Celtics May 7 7:00PM
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7132
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBALeaguePass1.us.png" group-title="NBA LEAGUE PASS", NBA 02: Milwaukee Bucks vs Indiana Pacers Jan 3 7:00PM
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7148
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG22.png" group-title="NBA LEAGUE PASS", NBA 03 |
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7117
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="NBA LEAGUE PASS", NBA 3: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7133
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBALeaguePass1.us.png" group-title="NBA LEAGUE PASS", NBA 03: Oklahoma City Thunder vs Atlanta Hawks Jan 3 7:30PM
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7149
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG22.png" group-title="NBA LEAGUE PASS", NBA 04 |
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7118
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="NBA LEAGUE PASS", NBA 4: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7134
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBALeaguePass1.us.png" group-title="NBA LEAGUE PASS", NBA 4: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7150
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG22.png" group-title="NBA LEAGUE PASS", NBA 05 |
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7119
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="NBA LEAGUE PASS", NBA 5: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7135
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBALeaguePass1.us.png" group-title="NBA LEAGUE PASS", NBA 5: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7151
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG22.png" group-title="NBA LEAGUE PASS", NBA 06 |
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7120
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="NBA LEAGUE PASS", NBA 6: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7136
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBALeaguePass1.us.png" group-title="NBA LEAGUE PASS", NBA 6: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7152
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG22.png" group-title="NBA LEAGUE PASS", NBA 07 |
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7121
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="NBA LEAGUE PASS", NBA 7: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7137
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBALeaguePass1.us.png" group-title="NBA LEAGUE PASS", NBA 7: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7153
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG22.png" group-title="NBA LEAGUE PASS", NBA 08 |
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7122
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="NBA LEAGUE PASS", NBA 8: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7138
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBALeaguePass1.us.png" group-title="NBA LEAGUE PASS", NBA 8: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7154
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG22.png" group-title="NBA LEAGUE PASS", NBA 09 |
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7123
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="NBA LEAGUE PASS", NBA 9: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7139
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBALeaguePass1.us.png" group-title="NBA LEAGUE PASS", NBA 9: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7155
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG22.png" group-title="NBA LEAGUE PASS", NBA 10 |
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7124
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="NBA LEAGUE PASS", NBA 10: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7140
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBALeaguePass1.us.png" group-title="NBA LEAGUE PASS", NBA 10: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7156
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG22.png" group-title="NBA LEAGUE PASS", NBA 11 |
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7125
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="NBA LEAGUE PASS", NBA 11: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7141
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBALeaguePass1.us.png" group-title="NBA LEAGUE PASS", NBA 11: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7157
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG22.png" group-title="NBA LEAGUE PASS", NBA 12 |
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7126
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="NBA LEAGUE PASS", NBA 12: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7142
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBALeaguePass1.us.png" group-title="NBA LEAGUE PASS", NBA 12: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7158
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG22.png" group-title="NBA LEAGUE PASS", NBA 13 |
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7127
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBALeaguePass1.us.png" group-title="NBA LEAGUE PASS", NBA 13:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7159
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="NBA LEAGUE PASS", NBA 13: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7143
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG22.png" group-title="NBA LEAGUE PASS", NBA 14 |
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7128
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBALeaguePass1.us.png" group-title="NBA LEAGUE PASS", NBA 14: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7160
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="NBA LEAGUE PASS", NBA 14: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7144
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG22.png" group-title="NBA LEAGUE PASS", NBA 15 |
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7129
+
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/nba_tv_c.png" group-title="NBA LEAGUE PASS", NBA 15: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7162
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="NBA LEAGUE PASS", NBA 15: No Games Scheduled
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7145
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 01:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7163
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 02:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7164
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 03:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7165
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 04:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7166
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 05:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7167
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 06:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7168
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 07:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7169
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 08:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7170
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 09:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7171
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 10:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7172
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 11:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7173
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 12:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7174
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 13:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7175
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 14:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7176
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 15:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7177
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 16:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7178
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 17:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7179
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 18:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7180
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 19:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7181
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA LEAGUE PASS", USA Real NBA 20:
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7182
+
