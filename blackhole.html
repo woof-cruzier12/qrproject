@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Black Hole with Stars</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: black;
+            overflow: hidden;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .black-hole {
+            width: 200px;
+            height: 200px;
+            background: radial-gradient(circle, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 70%);
+            border-radius: 50%;
+            position: relative;
+            z-index: 10;
+        }
+        .star {
+            width: 2px;
+            height: 2px;
+            background-color: white;
+            border-radius: 50%;
+            position: absolute;
+            animation: twinkle 2s infinite;
+        }
+        @keyframes twinkle {
+            0%, 100% {
+                opacity: 0.2;
+            }
+            50% {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="black-hole"></div>
+    <script>
+        const body = document.body;
+
+        function createStar() {
+            const star = document.createElement('div');
+            star.classList.add('star');
+            star.style.top = Math.random() * window.innerHeight + 'px';
+            star.style.left = Math.random() * window.innerWidth + 'px';
+            star.style.animationDuration = (Math.random() * 2 + 1) + 's';
+            body.appendChild(star);
+        }
+
+        for (let i = 0; i < 100; i++) {
+            createStar();
+        }
+    </script>
+</body>
+</html>
