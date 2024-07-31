@@ -4,22 +4,49 @@ layout: default
 ---
 
 <style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
+    body {
+          background-color: #f0f0f0;
+          color: #333;
+          font-family: 'Arial', sans-serif;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 100vh;
+          margin: 0;
+        }
+        .container {
+          text-align: center;
+          padding: 20px;
+          background: white;
+          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+          border-radius: 8px;
+        }
+        h1 {
+          font-size: 4em;
+          color: #ff6b6b;
+        }
+        p {
+          font-size: 1.2em;
+        }
+        .btn {
+          display: inline-block;
+          margin-top: 20px;
+          padding: 10px 20px;
+          background-color: #3498db;
+          color: white;
+          text-decoration: none;
+          border-radius: 5px;
+          transition: background-color 0.3s;
+        }
+        .btn:hover {
+          background-color: #2980b9;
+        }
 </style>
 
 <div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+    <h1>Oooppsss!</h1>
+        <p><strong>404 - Page not found</strong></p>
+        <p>The requested page might be in the other Earth's multiverse and could not be found here.</p>
+        <p>But don't worry, you can find your way back home!</p>
+        <a class="btn" href="/">Take me home</a>
 </div>
